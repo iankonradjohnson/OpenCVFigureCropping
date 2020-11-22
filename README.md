@@ -4,7 +4,15 @@ OrnamentalDataset is a project meant to catalogue ornamental images found in old
 
 ## Example
 
-Here is an example of a 
+Here is an example of an image to catalogue:
+
+<img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/img_138.png" width="200">
+
+With OpenCV we can parse the figures as individual image files:
+
+<img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/demo.png" width="200">
+
+
 
 
 
