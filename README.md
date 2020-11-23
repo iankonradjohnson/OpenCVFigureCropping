@@ -12,6 +12,20 @@ With OpenCV we can parse the figures as individual image files:
 
 <img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/demo.png" width="200">
 
+The results look like this:
+
+<p float="left">
+<img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/fig_132.png" style="width:50%">
+<img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/fig_133.png" style="width:50%">
+<img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/fig_134.png" style="width:50%">
+<img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/fig_135.png" style="width:50%">
+<img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/fig_136.png" style="width:50%">
+ </p>
+
+
+
+
+
 ## Data
 
 The images were sourced from [Internet Archive](https://archive.org/) and the dataset can be downloaded on Kaggle:
