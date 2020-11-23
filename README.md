@@ -12,24 +12,11 @@ With OpenCV we can parse the figures as individual image files:
 
 <img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/demo.png" width="200">
 
+## Data
 
+The images were sourced from [Internet Archive](https://archive.org/) and the dataset can be downloaded on Kaggle:
+[Download Data](www.kaggle.com/dataset/6a4c425a0fa9048e93290bf8eca41bbf1ffb618fae7b745dd0bf6b50359ae4ee)
 
-
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
