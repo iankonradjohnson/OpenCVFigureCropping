@@ -1,6 +1,6 @@
 # OrnamentalDataset
 
-OrnamentalDataset is a project meant to catalogue ornamental images found in old pattern book PDFs from InternetArchive using OpenCV.
+OrnamentalDataset is a project meant to catalogue ornamental images found in old pattern book PDFs from InternetArchive using OpenCV Computer Vision in Python.
 
 ## Example
 
@@ -21,9 +21,6 @@ The results look like this:
 <img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/fig_135.png" style="width:25%">
 <img src="https://github.com/iankonradjohnson/OrnamentalDataset/blob/master/fig_136.png" style="width:25%">
  </p>
-
-
-
 
 
 ## Data
