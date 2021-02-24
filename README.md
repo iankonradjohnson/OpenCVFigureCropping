@@ -1,4 +1,4 @@
-# OrnamentalDataset
+# OpenCVImageCropping
 
 OrnamentalDataset is a project meant to catalogue ornamental images found in old pattern book PDFs from InternetArchive using OpenCV Computer Vision in Python.
 
